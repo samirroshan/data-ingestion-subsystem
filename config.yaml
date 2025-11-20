@@ -1,0 +1,11 @@
+database:
+  name: ingestion
+  user: revature
+  password: "12345"
+  host: localhost
+  port: 5432
+
+paths:
+  source_csv: imdb_movie_dataset.csv
+  rejected_csv: rejected_rows.csv
+  log_file: ingestion.log
