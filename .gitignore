@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+venv/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Pytest cache
+.pytest_cache/
+tests/.pytest_cache/
+
+# Local logs and generated files
+ingestion.log
+clean_imdb_movies.csv
+rejected_rows.csv
+

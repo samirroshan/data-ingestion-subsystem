@@ -1,12 +1,16 @@
 import csv
 import json
 import os
-import logging
 import pandas as pd 
 import psycopg2
 import yaml
 
 from validator import validate_movie
+import logging
+from logging_config import setup_logging
+
+setup_logging()
+logger = logging.getLogger(__name__)
 
 # --- Load configuration from YAML ---
 with open("config.yaml", "r", encoding="utf-8") as f:

@@ -1,11 +1,21 @@
+paths:
+  source_csv: imdb_movie_dataset.csv
+  clean_csv: clean_imdb_movies.csv
+  rejected_csv: rejected_rows.csv
+  log_file: ingestion.log
+  
+db:
+  host: localhost
+  port: 5432
+  dbname: ingestion
+  user: revature
+  password: 12345
+
+# This section exists ONLY because load_imdb.py expects config["database"][...]
+# It still points at the same Postgres database as `db` above.
 database:
   name: ingestion
   user: revature
-  password: "12345"
+  password: 12345
   host: localhost
   port: 5432
-
-paths:
-  source_csv: imdb_movie_dataset.csv
-  rejected_csv: rejected_rows.csv
-  log_file: ingestion.log

@@ -1,0 +1,27 @@
+[
+  {
+    "customer_id": 1,
+    "customer_name": "Alice Johnson",
+    "email": "alice@example.com"
+  },
+  {
+    "customer_id": 2,
+    "customer_name": "Bob Smith",
+    "email": "bob@example.com"
+  },
+  {
+    "customer_id": 3,
+    "customer_name": "Carlos Martinez",
+    "email": "carlos@example.com"
+  },
+  {
+    "customer_id": 4,
+    "customer_name": "Diana Lee",
+    "email": "diana@example.com"
+  },
+  {
+    "customer_id": 5,
+    "customer_name": "Ethan Patel",
+    "email": "ethan@example.com"
+  }
+]

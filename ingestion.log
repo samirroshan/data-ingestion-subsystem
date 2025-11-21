@@ -978,3 +978,502 @@
 2025-11-19 15:31:11,358 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=999, Title=Search Party): Missing Revenue
 2025-11-19 15:31:11,360 [INFO] Run complete: inserted=838, rejected=162
 2025-11-19 15:31:11,387 [INFO] Exported 838 cleaned rows to clean_imdb_movies.csv
+2025-11-20 14:11:21,169 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=8, Title=Mindhorn): Missing Revenue
+2025-11-20 14:11:21,173 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=23, Title=Hounds of Love): Missing Revenue
+2025-11-20 14:11:21,174 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=26, Title=Paris pieds nus): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,174 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=27, Title=Bahubali: The Beginning): Missing Metascore
+2025-11-20 14:11:21,174 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=28, Title=Dead Awake): Missing Metascore
+2025-11-20 14:11:21,176 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=40, Title=5- 25- 77): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,177 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=43, Title=Don't Fuck in the Woods): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,178 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=48, Title=Fallen): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,178 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=50, Title=The Last Face): Missing Revenue
+2025-11-20 14:11:21,181 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=62, Title=The Autopsy of Jane Doe): Missing Revenue
+2025-11-20 14:11:21,182 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=71, Title=The Promise): Missing Revenue
+2025-11-20 14:11:21,189 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=104, Title=Contratiempo): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,190 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=109, Title=All We Had): Missing Revenue
+2025-11-20 14:11:21,190 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=113, Title=The Bad Batch): Missing Revenue
+2025-11-20 14:11:21,191 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=118, Title=Dangal): Missing Metascore
+2025-11-20 14:11:21,192 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=124, Title=Boyka: Undisputed IV): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,195 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=140, Title=Brimstone): Missing Revenue
+2025-11-20 14:11:21,197 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=155, Title=Twin Peaks: The Missing Pieces): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,197 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=161, Title=Mine): Missing Revenue
+2025-11-20 14:11:21,198 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=173, Title=Beyond the Gates): Missing Revenue
+2025-11-20 14:11:21,199 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=184, Title=Realive): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,200 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=186, Title=Love): Missing Revenue
+2025-11-20 14:11:21,200 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=192, Title=Below Her Mouth): Missing Revenue
+2025-11-20 14:11:21,201 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=197, Title=Hacker): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,202 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=210, Title=The Girl with All the Gifts): Missing Revenue
+2025-11-20 14:11:21,202 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=214, Title=Old Boy): Missing Revenue
+2025-11-20 14:11:21,203 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=219, Title=A Dark Song): Missing Revenue
+2025-11-20 14:11:21,203 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=230, Title=Rupture): Missing Revenue
+2025-11-20 14:11:21,207 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=270, Title=Satanic): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,207 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=275, Title=Ballerina): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,208 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=283, Title=Death Proof): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,208 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=290, Title=Iris): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,209 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=294, Title=The Exception): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,210 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=308, Title=Vincent N Roxxy): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,211 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=318, Title=The Stakelander): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,212 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=336, Title=Before I Wake): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,212 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=338, Title=Tracktown): Missing Revenue
+2025-11-20 14:11:21,214 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=351, Title=Lady Macbeth): Missing Revenue
+2025-11-20 14:11:21,214 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=357, Title=Demain tout commence): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,215 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=368, Title=American Wrestler: The Wizard): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,217 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=383, Title=Hush): Missing Revenue
+2025-11-20 14:11:21,218 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=394, Title=Whisky Galore): Missing Revenue
+2025-11-20 14:11:21,218 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=399, Title=Absolutely Anything): Missing Revenue
+2025-11-20 14:11:21,218 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=402, Title=The Black Room): Missing Revenue
+2025-11-20 14:11:21,218 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=403, Title=Bronson): Missing Metascore
+2025-11-20 14:11:21,219 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=414, Title=Elle): Missing Revenue
+2025-11-20 14:11:21,220 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=417, Title=The Headhunter's Calling): Missing Revenue
+2025-11-20 14:11:21,220 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=418, Title=Atonement): Missing Metascore
+2025-11-20 14:11:21,221 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=429, Title=Srpski film): Missing Revenue
+2025-11-20 14:11:21,221 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=430, Title=The Purge: Election Year): Missing Metascore
+2025-11-20 14:11:21,221 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=435, Title=Let Me Make You a Martyr): Missing Revenue
+2025-11-20 14:11:21,221 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=436, Title=Filth): Missing Metascore
+2025-11-20 14:11:21,222 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=440, Title=Folk Hero & Funny Guy): Missing Revenue
+2025-11-20 14:11:21,222 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=445, Title=The Thinning): Missing Revenue
+2025-11-20 14:11:21,222 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=446, Title=Silent Hill): Missing Metascore
+2025-11-20 14:11:21,224 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=464, Title=Predestination): Missing Revenue
+2025-11-20 14:11:21,225 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=478, Title=Pet): Missing Revenue
+2025-11-20 14:11:21,225 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=479, Title=Paint It Black): Missing Revenue
+2025-11-20 14:11:21,225 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=480, Title=Macbeth): Missing Revenue
+2025-11-20 14:11:21,225 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=484, Title=Perfetti sconosciuti): Missing Revenue
+2025-11-20 14:11:21,225 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=485, Title=Angry Birds): Missing Metascore
+2025-11-20 14:11:21,227 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=503, Title=Imperium): Missing Revenue
+2025-11-20 14:11:21,227 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=505, Title=Mr. Nobody): Missing Revenue
+2025-11-20 14:11:21,227 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=506, Title=City of Tiny Lights): Missing Revenue
+2025-11-20 14:11:21,228 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=515, Title=Magic Mike XXL): Missing Revenue
+2025-11-20 14:11:21,229 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=524, Title=Whiskey Tango Foxtrot): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,229 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=527, Title=Elysium): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,229 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=533, Title=Deja Vu): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,230 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=539, Title=True Crimes): Missing Revenue
+2025-11-20 14:11:21,230 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=540, Title=American Pastoral): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,230 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=543, Title=Spectral): Missing Revenue
+2025-11-20 14:11:21,230 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=544, Title=P.S. I Love You): Missing Metascore
+2025-11-20 14:11:21,230 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=545, Title=Zipper): Missing Revenue
+2025-11-20 14:11:21,231 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=550, Title=I, Daniel Blake): Missing Revenue
+2025-11-20 14:11:21,231 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=554, Title=The Survivalist): Missing Revenue
+2025-11-20 14:11:21,231 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=555, Title=Colonia): Missing Revenue
+2025-11-20 14:11:21,233 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=582, Title=The Last Airbender): Missing Revenue
+2025-11-20 14:11:21,235 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=603, Title=He's Just Not That Into You): Missing Revenue
+2025-11-20 14:11:21,235 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=606, Title=Handsome Devil): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,235 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=607, Title=Winter's Bone): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,236 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=618, Title=Free State of Jones): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,237 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=628, Title=The Escort): Missing Revenue
+2025-11-20 14:11:21,237 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=629, Title=The Whole Truth): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,238 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=634, Title=Megan Is Missing): Missing Revenue
+2025-11-20 14:11:21,238 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=635, Title=WALL·E): Missing Metascore
+2025-11-20 14:11:21,238 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=643, Title=The Ridiculous 6): Missing Revenue
+2025-11-20 14:11:21,239 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=645, Title=Viral): Missing Revenue
+2025-11-20 14:11:21,239 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=646, Title=Gran Torino): Missing Metascore
+2025-11-20 14:11:21,239 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=648, Title=Tall Men): Missing Revenue
+2025-11-20 14:11:21,239 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=649, Title=Sleeping Beauty): Missing Metascore
+2025-11-20 14:11:21,239 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=652, Title=Solace): Missing Revenue
+2025-11-20 14:11:21,240 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=655, Title=The Levelling): Missing Revenue
+2025-11-20 14:11:21,241 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=671, Title=Devil's Knot): Missing Revenue
+2025-11-20 14:11:21,241 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=675, Title=War on Everyone): Missing Revenue
+2025-11-20 14:11:21,242 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=693, Title=Genius): Missing Metascore
+2025-11-20 14:11:21,243 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=696, Title=Hachi: A Dog's Tale): Missing Revenue
+2025-11-20 14:11:21,243 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=697, Title=10 Years): Missing Metascore
+2025-11-20 14:11:21,243 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=700, Title=The Matchbreaker): Missing Revenue
+2025-11-20 14:11:21,243 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=701, Title=Funny Games): Missing Metascore
+2025-11-20 14:11:21,244 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=706, Title=The Neighbor): Missing Revenue
+2025-11-20 14:11:21,244 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=707, Title=The Adjustment Bureau): Missing Metascore
+2025-11-20 14:11:21,246 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=733, Title=This Beautiful Fantastic): Missing Revenue
+2025-11-20 14:11:21,247 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=747, Title=Only for One Night): Missing Revenue
+2025-11-20 14:11:21,247 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=748, Title=Rules Don't Apply): Missing Metascore
+2025-11-20 14:11:21,247 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=755, Title=Lída Baarová): Missing Revenue
+2025-11-20 14:11:21,248 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=756, Title=The Road): Missing Metascore
+2025-11-20 14:11:21,248 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=757, Title=Lavender): Missing Revenue
+2025-11-20 14:11:21,248 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=758, Title=Deuces): Missing Revenue
+2025-11-20 14:11:21,248 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=759, Title=Conan the Barbarian): Missing Metascore
+2025-11-20 14:11:21,249 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=767, Title=Ender's Game): Missing Metascore
+2025-11-20 14:11:21,249 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=772, Title=The Assignment): Missing Revenue
+2025-11-20 14:11:21,250 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=778, Title=Final Girl): Missing Revenue
+2025-11-20 14:11:21,250 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=779, Title=Chalk It Up): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,250 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=780, Title=The Man Who Knew Infinity): Missing Metascore
+2025-11-20 14:11:21,250 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=784, Title=Tramps): Missing Revenue
+2025-11-20 14:11:21,251 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=787, Title=The Secret Scripture): Missing Revenue
+2025-11-20 14:11:21,252 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=801, Title=Yoga Hosers): Missing Revenue
+2025-11-20 14:11:21,252 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=810, Title=USS Indianapolis: Men of Courage): Missing Revenue
+2025-11-20 14:11:21,253 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=817, Title=I.T.): Missing Revenue
+2025-11-20 14:11:21,253 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=820, Title=Wolves at the Door): Missing Revenue
+2025-11-20 14:11:21,253 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=821, Title=Suite Française): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,254 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=825, Title=Man Down): Missing Revenue
+2025-11-20 14:11:21,254 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=826, Title=Crawlspace): Missing Revenue
+2025-11-20 14:11:21,254 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=827, Title=Shut In): Missing Metascore
+2025-11-20 14:11:21,254 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=828, Title=The Warriors Gate): Missing Revenue
+2025-11-20 14:11:21,254 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=829, Title=Grindhouse): Missing Metascore
+2025-11-20 14:11:21,255 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=839, Title=Exposed): Missing Revenue
+2025-11-20 14:11:21,255 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=840, Title=Maudie): Missing Revenue
+2025-11-20 14:11:21,256 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=849, Title=Mean Dreams): Missing Revenue
+2025-11-20 14:11:21,257 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=862, Title=Koe no katachi): Missing Revenue
+2025-11-20 14:11:21,257 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=865, Title=The 9th Life of Louis Drax): Missing Revenue
+2025-11-20 14:11:21,259 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=891, Title=The Intent): Missing Revenue
+2025-11-20 14:11:21,259 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=892, Title=This Is 40): Missing Metascore
+2025-11-20 14:11:21,260 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=896, Title=Planet Terror): Missing Revenue
+2025-11-20 14:11:21,260 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=897, Title=Concussion): Missing Metascore
+2025-11-20 14:11:21,260 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=906, Title=In Dubious Battle): Missing Revenue
+2025-11-20 14:11:21,261 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=912, Title=I Am the Pretty Thing That Lives in the House): Missing Revenue
+2025-11-20 14:11:21,261 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=918, Title=The Girl Next Door): Missing Revenue
+2025-11-20 14:11:21,262 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=929, Title=Good Kids): Missing Revenue
+2025-11-20 14:11:21,263 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=930, Title=The Master): Missing Metascore
+2025-11-20 14:11:21,263 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=933, Title=The Ticket): Missing Revenue
+2025-11-20 14:11:21,263 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=934, Title=Detour): Missing Revenue
+2025-11-20 14:11:21,263 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=939, Title=The Siege of Jadotville): Missing Revenue
+2025-11-20 14:11:21,263 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=940, Title=Up in the Air): Missing Metascore
+2025-11-20 14:11:21,264 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=943, Title=Transpecos): Missing Revenue
+2025-11-20 14:11:21,264 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=946, Title=Triangle): Missing Revenue
+2025-11-20 14:11:21,264 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=947, Title=The Butler): Missing Metascore
+2025-11-20 14:11:21,266 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=965, Title=Custody): Missing Revenue
+2025-11-20 14:11:21,266 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=966, Title=Inland Empire): Missing Revenue; Missing Metascore
+2025-11-20 14:11:21,266 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=967, Title=L'odyssée): Missing Revenue
+2025-11-20 14:11:21,266 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=968, Title=The Walk): Missing Metascore
+2025-11-20 14:11:21,266 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=969, Title=Wrecker): Missing Revenue
+2025-11-20 14:11:21,266 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=970, Title=The Lone Ranger): Missing Metascore
+2025-11-20 14:11:21,266 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=972, Title=Disturbia): Missing Metascore
+2025-11-20 14:11:21,267 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=977, Title=Dark Places): Missing Revenue
+2025-11-20 14:11:21,267 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=978, Title=Amateur Night): Missing Revenue
+2025-11-20 14:11:21,267 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=979, Title=It's Only the End of the World): Missing Revenue
+2025-11-20 14:11:21,268 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=989, Title=Martyrs): Missing Revenue
+2025-11-20 14:11:21,268 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=990, Title=Selma): Missing Metascore
+2025-11-20 14:11:21,268 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=993, Title=Take Me Home Tonight): Missing Metascore
+2025-11-20 14:11:21,268 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=996, Title=Secret in Their Eyes): Missing Revenue
+2025-11-20 14:11:21,269 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=999, Title=Search Party): Missing Revenue
+2025-11-20 14:11:21,270 [INFO] Run complete: inserted=838, rejected=162
+2025-11-20 14:11:21,330 [INFO] Exported 1676 cleaned rows to clean_imdb_movies.csv
+2025-11-20 14:14:11,455 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=8, Title=Mindhorn): Missing Revenue
+2025-11-20 14:14:11,458 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=23, Title=Hounds of Love): Missing Revenue
+2025-11-20 14:14:11,459 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=26, Title=Paris pieds nus): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,459 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=27, Title=Bahubali: The Beginning): Missing Metascore
+2025-11-20 14:14:11,459 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=28, Title=Dead Awake): Missing Metascore
+2025-11-20 14:14:11,461 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=40, Title=5- 25- 77): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,462 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=43, Title=Don't Fuck in the Woods): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,463 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=48, Title=Fallen): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,463 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=50, Title=The Last Face): Missing Revenue
+2025-11-20 14:14:11,465 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=62, Title=The Autopsy of Jane Doe): Missing Revenue
+2025-11-20 14:14:11,467 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=71, Title=The Promise): Missing Revenue
+2025-11-20 14:14:11,473 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=104, Title=Contratiempo): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,474 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=109, Title=All We Had): Missing Revenue
+2025-11-20 14:14:11,475 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=113, Title=The Bad Batch): Missing Revenue
+2025-11-20 14:14:11,476 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=118, Title=Dangal): Missing Metascore
+2025-11-20 14:14:11,477 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=124, Title=Boyka: Undisputed IV): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,480 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=140, Title=Brimstone): Missing Revenue
+2025-11-20 14:14:11,483 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=155, Title=Twin Peaks: The Missing Pieces): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,483 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=161, Title=Mine): Missing Revenue
+2025-11-20 14:14:11,485 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=173, Title=Beyond the Gates): Missing Revenue
+2025-11-20 14:14:11,487 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=184, Title=Realive): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,487 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=186, Title=Love): Missing Revenue
+2025-11-20 14:14:11,488 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=192, Title=Below Her Mouth): Missing Revenue
+2025-11-20 14:14:11,489 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=197, Title=Hacker): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,490 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=210, Title=The Girl with All the Gifts): Missing Revenue
+2025-11-20 14:14:11,491 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=214, Title=Old Boy): Missing Revenue
+2025-11-20 14:14:11,492 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=219, Title=A Dark Song): Missing Revenue
+2025-11-20 14:14:11,493 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=230, Title=Rupture): Missing Revenue
+2025-11-20 14:14:11,497 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=270, Title=Satanic): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,497 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=275, Title=Ballerina): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,498 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=283, Title=Death Proof): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,499 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=290, Title=Iris): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,499 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=294, Title=The Exception): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,500 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=308, Title=Vincent N Roxxy): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,501 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=318, Title=The Stakelander): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,503 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=336, Title=Before I Wake): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,503 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=338, Title=Tracktown): Missing Revenue
+2025-11-20 14:14:11,504 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=351, Title=Lady Macbeth): Missing Revenue
+2025-11-20 14:14:11,504 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=357, Title=Demain tout commence): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,505 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=368, Title=American Wrestler: The Wizard): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,507 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=383, Title=Hush): Missing Revenue
+2025-11-20 14:14:11,508 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=394, Title=Whisky Galore): Missing Revenue
+2025-11-20 14:14:11,508 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=399, Title=Absolutely Anything): Missing Revenue
+2025-11-20 14:14:11,508 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=402, Title=The Black Room): Missing Revenue
+2025-11-20 14:14:11,508 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=403, Title=Bronson): Missing Metascore
+2025-11-20 14:14:11,509 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=414, Title=Elle): Missing Revenue
+2025-11-20 14:14:11,510 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=417, Title=The Headhunter's Calling): Missing Revenue
+2025-11-20 14:14:11,510 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=418, Title=Atonement): Missing Metascore
+2025-11-20 14:14:11,511 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=429, Title=Srpski film): Missing Revenue
+2025-11-20 14:14:11,511 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=430, Title=The Purge: Election Year): Missing Metascore
+2025-11-20 14:14:11,511 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=435, Title=Let Me Make You a Martyr): Missing Revenue
+2025-11-20 14:14:11,511 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=436, Title=Filth): Missing Metascore
+2025-11-20 14:14:11,512 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=440, Title=Folk Hero & Funny Guy): Missing Revenue
+2025-11-20 14:14:11,512 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=445, Title=The Thinning): Missing Revenue
+2025-11-20 14:14:11,512 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=446, Title=Silent Hill): Missing Metascore
+2025-11-20 14:14:11,514 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=464, Title=Predestination): Missing Revenue
+2025-11-20 14:14:11,515 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=478, Title=Pet): Missing Revenue
+2025-11-20 14:14:11,515 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=479, Title=Paint It Black): Missing Revenue
+2025-11-20 14:14:11,515 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=480, Title=Macbeth): Missing Revenue
+2025-11-20 14:14:11,516 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=484, Title=Perfetti sconosciuti): Missing Revenue
+2025-11-20 14:14:11,516 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=485, Title=Angry Birds): Missing Metascore
+2025-11-20 14:14:11,517 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=503, Title=Imperium): Missing Revenue
+2025-11-20 14:14:11,517 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=505, Title=Mr. Nobody): Missing Revenue
+2025-11-20 14:14:11,518 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=506, Title=City of Tiny Lights): Missing Revenue
+2025-11-20 14:14:11,518 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=515, Title=Magic Mike XXL): Missing Revenue
+2025-11-20 14:14:11,519 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=524, Title=Whiskey Tango Foxtrot): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,519 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=527, Title=Elysium): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,520 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=533, Title=Deja Vu): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,520 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=539, Title=True Crimes): Missing Revenue
+2025-11-20 14:14:11,520 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=540, Title=American Pastoral): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,521 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=543, Title=Spectral): Missing Revenue
+2025-11-20 14:14:11,521 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=544, Title=P.S. I Love You): Missing Metascore
+2025-11-20 14:14:11,521 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=545, Title=Zipper): Missing Revenue
+2025-11-20 14:14:11,521 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=550, Title=I, Daniel Blake): Missing Revenue
+2025-11-20 14:14:11,522 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=554, Title=The Survivalist): Missing Revenue
+2025-11-20 14:14:11,522 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=555, Title=Colonia): Missing Revenue
+2025-11-20 14:14:11,524 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=582, Title=The Last Airbender): Missing Revenue
+2025-11-20 14:14:11,526 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=603, Title=He's Just Not That Into You): Missing Revenue
+2025-11-20 14:14:11,526 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=606, Title=Handsome Devil): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,526 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=607, Title=Winter's Bone): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,527 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=618, Title=Free State of Jones): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,528 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=628, Title=The Escort): Missing Revenue
+2025-11-20 14:14:11,528 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=629, Title=The Whole Truth): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,529 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=634, Title=Megan Is Missing): Missing Revenue
+2025-11-20 14:14:11,529 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=635, Title=WALL·E): Missing Metascore
+2025-11-20 14:14:11,530 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=643, Title=The Ridiculous 6): Missing Revenue
+2025-11-20 14:14:11,530 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=645, Title=Viral): Missing Revenue
+2025-11-20 14:14:11,530 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=646, Title=Gran Torino): Missing Metascore
+2025-11-20 14:14:11,530 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=648, Title=Tall Men): Missing Revenue
+2025-11-20 14:14:11,530 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=649, Title=Sleeping Beauty): Missing Metascore
+2025-11-20 14:14:11,530 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=652, Title=Solace): Missing Revenue
+2025-11-20 14:14:11,531 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=655, Title=The Levelling): Missing Revenue
+2025-11-20 14:14:11,532 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=671, Title=Devil's Knot): Missing Revenue
+2025-11-20 14:14:11,532 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=675, Title=War on Everyone): Missing Revenue
+2025-11-20 14:14:11,534 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=693, Title=Genius): Missing Metascore
+2025-11-20 14:14:11,534 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=696, Title=Hachi: A Dog's Tale): Missing Revenue
+2025-11-20 14:14:11,534 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=697, Title=10 Years): Missing Metascore
+2025-11-20 14:14:11,535 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=700, Title=The Matchbreaker): Missing Revenue
+2025-11-20 14:14:11,535 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=701, Title=Funny Games): Missing Metascore
+2025-11-20 14:14:11,535 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=706, Title=The Neighbor): Missing Revenue
+2025-11-20 14:14:11,535 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=707, Title=The Adjustment Bureau): Missing Metascore
+2025-11-20 14:14:11,537 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=733, Title=This Beautiful Fantastic): Missing Revenue
+2025-11-20 14:14:11,538 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=747, Title=Only for One Night): Missing Revenue
+2025-11-20 14:14:11,539 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=748, Title=Rules Don't Apply): Missing Metascore
+2025-11-20 14:14:11,539 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=755, Title=Lída Baarová): Missing Revenue
+2025-11-20 14:14:11,539 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=756, Title=The Road): Missing Metascore
+2025-11-20 14:14:11,540 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=757, Title=Lavender): Missing Revenue
+2025-11-20 14:14:11,540 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=758, Title=Deuces): Missing Revenue
+2025-11-20 14:14:11,540 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=759, Title=Conan the Barbarian): Missing Metascore
+2025-11-20 14:14:11,540 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=767, Title=Ender's Game): Missing Metascore
+2025-11-20 14:14:11,541 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=772, Title=The Assignment): Missing Revenue
+2025-11-20 14:14:11,541 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=778, Title=Final Girl): Missing Revenue
+2025-11-20 14:14:11,541 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=779, Title=Chalk It Up): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,542 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=780, Title=The Man Who Knew Infinity): Missing Metascore
+2025-11-20 14:14:11,542 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=784, Title=Tramps): Missing Revenue
+2025-11-20 14:14:11,542 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=787, Title=The Secret Scripture): Missing Revenue
+2025-11-20 14:14:11,543 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=801, Title=Yoga Hosers): Missing Revenue
+2025-11-20 14:14:11,544 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=810, Title=USS Indianapolis: Men of Courage): Missing Revenue
+2025-11-20 14:14:11,545 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=817, Title=I.T.): Missing Revenue
+2025-11-20 14:14:11,545 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=820, Title=Wolves at the Door): Missing Revenue
+2025-11-20 14:14:11,545 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=821, Title=Suite Française): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,545 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=825, Title=Man Down): Missing Revenue
+2025-11-20 14:14:11,545 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=826, Title=Crawlspace): Missing Revenue
+2025-11-20 14:14:11,545 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=827, Title=Shut In): Missing Metascore
+2025-11-20 14:14:11,546 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=828, Title=The Warriors Gate): Missing Revenue
+2025-11-20 14:14:11,546 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=829, Title=Grindhouse): Missing Metascore
+2025-11-20 14:14:11,546 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=839, Title=Exposed): Missing Revenue
+2025-11-20 14:14:11,547 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=840, Title=Maudie): Missing Revenue
+2025-11-20 14:14:11,547 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=849, Title=Mean Dreams): Missing Revenue
+2025-11-20 14:14:11,548 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=862, Title=Koe no katachi): Missing Revenue
+2025-11-20 14:14:11,549 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=865, Title=The 9th Life of Louis Drax): Missing Revenue
+2025-11-20 14:14:11,551 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=891, Title=The Intent): Missing Revenue
+2025-11-20 14:14:11,551 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=892, Title=This Is 40): Missing Metascore
+2025-11-20 14:14:11,551 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=896, Title=Planet Terror): Missing Revenue
+2025-11-20 14:14:11,551 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=897, Title=Concussion): Missing Metascore
+2025-11-20 14:14:11,552 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=906, Title=In Dubious Battle): Missing Revenue
+2025-11-20 14:14:11,552 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=912, Title=I Am the Pretty Thing That Lives in the House): Missing Revenue
+2025-11-20 14:14:11,553 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=918, Title=The Girl Next Door): Missing Revenue
+2025-11-20 14:14:11,554 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=929, Title=Good Kids): Missing Revenue
+2025-11-20 14:14:11,554 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=930, Title=The Master): Missing Metascore
+2025-11-20 14:14:11,554 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=933, Title=The Ticket): Missing Revenue
+2025-11-20 14:14:11,554 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=934, Title=Detour): Missing Revenue
+2025-11-20 14:14:11,555 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=939, Title=The Siege of Jadotville): Missing Revenue
+2025-11-20 14:14:11,555 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=940, Title=Up in the Air): Missing Metascore
+2025-11-20 14:14:11,555 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=943, Title=Transpecos): Missing Revenue
+2025-11-20 14:14:11,555 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=946, Title=Triangle): Missing Revenue
+2025-11-20 14:14:11,555 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=947, Title=The Butler): Missing Metascore
+2025-11-20 14:14:11,557 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=965, Title=Custody): Missing Revenue
+2025-11-20 14:14:11,557 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=966, Title=Inland Empire): Missing Revenue; Missing Metascore
+2025-11-20 14:14:11,557 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=967, Title=L'odyssée): Missing Revenue
+2025-11-20 14:14:11,557 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=968, Title=The Walk): Missing Metascore
+2025-11-20 14:14:11,557 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=969, Title=Wrecker): Missing Revenue
+2025-11-20 14:14:11,557 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=970, Title=The Lone Ranger): Missing Metascore
+2025-11-20 14:14:11,558 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=972, Title=Disturbia): Missing Metascore
+2025-11-20 14:14:11,558 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=977, Title=Dark Places): Missing Revenue
+2025-11-20 14:14:11,558 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=978, Title=Amateur Night): Missing Revenue
+2025-11-20 14:14:11,558 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=979, Title=It's Only the End of the World): Missing Revenue
+2025-11-20 14:14:11,559 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=989, Title=Martyrs): Missing Revenue
+2025-11-20 14:14:11,559 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=990, Title=Selma): Missing Metascore
+2025-11-20 14:14:11,559 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=993, Title=Take Me Home Tonight): Missing Metascore
+2025-11-20 14:14:11,560 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=996, Title=Secret in Their Eyes): Missing Revenue
+2025-11-20 14:14:11,560 [WARNING] Rejected row from imdb_movie_dataset.csv (Rank=999, Title=Search Party): Missing Revenue
+2025-11-20 14:14:11,561 [INFO] Run complete: inserted=838, rejected=162
+2025-11-20 14:14:11,622 [INFO] Exported 2514 cleaned rows to clean_imdb_movies.csv
+2025-11-21 11:00:40,320 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=8, Title=Mindhorn): Missing Revenue
+2025-11-21 11:00:40,324 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=23, Title=Hounds of Love): Missing Revenue
+2025-11-21 11:00:40,325 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=26, Title=Paris pieds nus): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,325 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=27, Title=Bahubali: The Beginning): Missing Metascore
+2025-11-21 11:00:40,325 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=28, Title=Dead Awake): Missing Metascore
+2025-11-21 11:00:40,327 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=40, Title=5- 25- 77): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,328 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=43, Title=Don't Fuck in the Woods): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,328 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=48, Title=Fallen): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,329 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=50, Title=The Last Face): Missing Revenue
+2025-11-21 11:00:40,331 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=62, Title=The Autopsy of Jane Doe): Missing Revenue
+2025-11-21 11:00:40,333 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=71, Title=The Promise): Missing Revenue
+2025-11-21 11:00:40,339 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=104, Title=Contratiempo): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,339 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=109, Title=All We Had): Missing Revenue
+2025-11-21 11:00:40,340 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=113, Title=The Bad Batch): Missing Revenue
+2025-11-21 11:00:40,341 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=118, Title=Dangal): Missing Metascore
+2025-11-21 11:00:40,342 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=124, Title=Boyka: Undisputed IV): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,344 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=140, Title=Brimstone): Missing Revenue
+2025-11-21 11:00:40,346 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=155, Title=Twin Peaks: The Missing Pieces): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,347 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=161, Title=Mine): Missing Revenue
+2025-11-21 11:00:40,348 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=173, Title=Beyond the Gates): Missing Revenue
+2025-11-21 11:00:40,349 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=184, Title=Realive): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,349 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=186, Title=Love): Missing Revenue
+2025-11-21 11:00:40,350 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=192, Title=Below Her Mouth): Missing Revenue
+2025-11-21 11:00:40,351 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=197, Title=Hacker): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,352 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=210, Title=The Girl with All the Gifts): Missing Revenue
+2025-11-21 11:00:40,352 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=214, Title=Old Boy): Missing Revenue
+2025-11-21 11:00:40,353 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=219, Title=A Dark Song): Missing Revenue
+2025-11-21 11:00:40,353 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=230, Title=Rupture): Missing Revenue
+2025-11-21 11:00:40,356 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=270, Title=Satanic): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,356 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=275, Title=Ballerina): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,357 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=283, Title=Death Proof): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,357 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=290, Title=Iris): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,357 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=294, Title=The Exception): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,358 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=308, Title=Vincent N Roxxy): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,359 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=318, Title=The Stakelander): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,360 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=336, Title=Before I Wake): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,360 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=338, Title=Tracktown): Missing Revenue
+2025-11-21 11:00:40,361 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=351, Title=Lady Macbeth): Missing Revenue
+2025-11-21 11:00:40,362 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=357, Title=Demain tout commence): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,362 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=368, Title=American Wrestler: The Wizard): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,363 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=383, Title=Hush): Missing Revenue
+2025-11-21 11:00:40,364 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=394, Title=Whisky Galore): Missing Revenue
+2025-11-21 11:00:40,364 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=399, Title=Absolutely Anything): Missing Revenue
+2025-11-21 11:00:40,365 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=402, Title=The Black Room): Missing Revenue
+2025-11-21 11:00:40,365 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=403, Title=Bronson): Missing Metascore
+2025-11-21 11:00:40,365 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=414, Title=Elle): Missing Revenue
+2025-11-21 11:00:40,366 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=417, Title=The Headhunter's Calling): Missing Revenue
+2025-11-21 11:00:40,366 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=418, Title=Atonement): Missing Metascore
+2025-11-21 11:00:40,366 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=429, Title=Srpski film): Missing Revenue
+2025-11-21 11:00:40,366 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=430, Title=The Purge: Election Year): Missing Metascore
+2025-11-21 11:00:40,367 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=435, Title=Let Me Make You a Martyr): Missing Revenue
+2025-11-21 11:00:40,367 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=436, Title=Filth): Missing Metascore
+2025-11-21 11:00:40,367 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=440, Title=Folk Hero & Funny Guy): Missing Revenue
+2025-11-21 11:00:40,367 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=445, Title=The Thinning): Missing Revenue
+2025-11-21 11:00:40,367 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=446, Title=Silent Hill): Missing Metascore
+2025-11-21 11:00:40,368 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=464, Title=Predestination): Missing Revenue
+2025-11-21 11:00:40,369 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=478, Title=Pet): Missing Revenue
+2025-11-21 11:00:40,369 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=479, Title=Paint It Black): Missing Revenue
+2025-11-21 11:00:40,369 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=480, Title=Macbeth): Missing Revenue
+2025-11-21 11:00:40,370 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=484, Title=Perfetti sconosciuti): Missing Revenue
+2025-11-21 11:00:40,370 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=485, Title=Angry Birds): Missing Metascore
+2025-11-21 11:00:40,371 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=503, Title=Imperium): Missing Revenue
+2025-11-21 11:00:40,371 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=505, Title=Mr. Nobody): Missing Revenue
+2025-11-21 11:00:40,371 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=506, Title=City of Tiny Lights): Missing Revenue
+2025-11-21 11:00:40,372 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=515, Title=Magic Mike XXL): Missing Revenue
+2025-11-21 11:00:40,372 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=524, Title=Whiskey Tango Foxtrot): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,372 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=527, Title=Elysium): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,373 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=533, Title=Deja Vu): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,373 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=539, Title=True Crimes): Missing Revenue
+2025-11-21 11:00:40,373 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=540, Title=American Pastoral): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,373 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=543, Title=Spectral): Missing Revenue
+2025-11-21 11:00:40,373 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=544, Title=P.S. I Love You): Missing Metascore
+2025-11-21 11:00:40,373 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=545, Title=Zipper): Missing Revenue
+2025-11-21 11:00:40,374 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=550, Title=I, Daniel Blake): Missing Revenue
+2025-11-21 11:00:40,374 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=554, Title=The Survivalist): Missing Revenue
+2025-11-21 11:00:40,374 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=555, Title=Colonia): Missing Revenue
+2025-11-21 11:00:40,376 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=582, Title=The Last Airbender): Missing Revenue
+2025-11-21 11:00:40,377 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=603, Title=He's Just Not That Into You): Missing Revenue
+2025-11-21 11:00:40,377 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=606, Title=Handsome Devil): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,378 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=607, Title=Winter's Bone): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,378 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=618, Title=Free State of Jones): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,379 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=628, Title=The Escort): Missing Revenue
+2025-11-21 11:00:40,379 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=629, Title=The Whole Truth): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,379 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=634, Title=Megan Is Missing): Missing Revenue
+2025-11-21 11:00:40,379 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=635, Title=WALL·E): Missing Metascore
+2025-11-21 11:00:40,380 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=643, Title=The Ridiculous 6): Missing Revenue
+2025-11-21 11:00:40,380 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=645, Title=Viral): Missing Revenue
+2025-11-21 11:00:40,380 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=646, Title=Gran Torino): Missing Metascore
+2025-11-21 11:00:40,380 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=648, Title=Tall Men): Missing Revenue
+2025-11-21 11:00:40,380 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=649, Title=Sleeping Beauty): Missing Metascore
+2025-11-21 11:00:40,381 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=652, Title=Solace): Missing Revenue
+2025-11-21 11:00:40,381 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=655, Title=The Levelling): Missing Revenue
+2025-11-21 11:00:40,382 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=671, Title=Devil's Knot): Missing Revenue
+2025-11-21 11:00:40,382 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=675, Title=War on Everyone): Missing Revenue
+2025-11-21 11:00:40,383 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=693, Title=Genius): Missing Metascore
+2025-11-21 11:00:40,383 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=696, Title=Hachi: A Dog's Tale): Missing Revenue
+2025-11-21 11:00:40,383 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=697, Title=10 Years): Missing Metascore
+2025-11-21 11:00:40,384 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=700, Title=The Matchbreaker): Missing Revenue
+2025-11-21 11:00:40,384 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=701, Title=Funny Games): Missing Metascore
+2025-11-21 11:00:40,384 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=706, Title=The Neighbor): Missing Revenue
+2025-11-21 11:00:40,384 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=707, Title=The Adjustment Bureau): Missing Metascore
+2025-11-21 11:00:40,385 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=733, Title=This Beautiful Fantastic): Missing Revenue
+2025-11-21 11:00:40,386 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=747, Title=Only for One Night): Missing Revenue
+2025-11-21 11:00:40,386 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=748, Title=Rules Don't Apply): Missing Metascore
+2025-11-21 11:00:40,387 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=755, Title=Lída Baarová): Missing Revenue
+2025-11-21 11:00:40,387 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=756, Title=The Road): Missing Metascore
+2025-11-21 11:00:40,387 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=757, Title=Lavender): Missing Revenue
+2025-11-21 11:00:40,387 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=758, Title=Deuces): Missing Revenue
+2025-11-21 11:00:40,387 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=759, Title=Conan the Barbarian): Missing Metascore
+2025-11-21 11:00:40,388 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=767, Title=Ender's Game): Missing Metascore
+2025-11-21 11:00:40,388 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=772, Title=The Assignment): Missing Revenue
+2025-11-21 11:00:40,389 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=778, Title=Final Girl): Missing Revenue
+2025-11-21 11:00:40,389 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=779, Title=Chalk It Up): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,389 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=780, Title=The Man Who Knew Infinity): Missing Metascore
+2025-11-21 11:00:40,389 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=784, Title=Tramps): Missing Revenue
+2025-11-21 11:00:40,389 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=787, Title=The Secret Scripture): Missing Revenue
+2025-11-21 11:00:40,390 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=801, Title=Yoga Hosers): Missing Revenue
+2025-11-21 11:00:40,390 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=810, Title=USS Indianapolis: Men of Courage): Missing Revenue
+2025-11-21 11:00:40,391 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=817, Title=I.T.): Missing Revenue
+2025-11-21 11:00:40,391 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=820, Title=Wolves at the Door): Missing Revenue
+2025-11-21 11:00:40,391 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=821, Title=Suite Française): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,391 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=825, Title=Man Down): Missing Revenue
+2025-11-21 11:00:40,392 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=826, Title=Crawlspace): Missing Revenue
+2025-11-21 11:00:40,392 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=827, Title=Shut In): Missing Metascore
+2025-11-21 11:00:40,392 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=828, Title=The Warriors Gate): Missing Revenue
+2025-11-21 11:00:40,392 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=829, Title=Grindhouse): Missing Metascore
+2025-11-21 11:00:40,393 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=839, Title=Exposed): Missing Revenue
+2025-11-21 11:00:40,393 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=840, Title=Maudie): Missing Revenue
+2025-11-21 11:00:40,393 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=849, Title=Mean Dreams): Missing Revenue
+2025-11-21 11:00:40,394 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=862, Title=Koe no katachi): Missing Revenue
+2025-11-21 11:00:40,394 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=865, Title=The 9th Life of Louis Drax): Missing Revenue
+2025-11-21 11:00:40,396 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=891, Title=The Intent): Missing Revenue
+2025-11-21 11:00:40,396 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=892, Title=This Is 40): Missing Metascore
+2025-11-21 11:00:40,396 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=896, Title=Planet Terror): Missing Revenue
+2025-11-21 11:00:40,396 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=897, Title=Concussion): Missing Metascore
+2025-11-21 11:00:40,397 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=906, Title=In Dubious Battle): Missing Revenue
+2025-11-21 11:00:40,397 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=912, Title=I Am the Pretty Thing That Lives in the House): Missing Revenue
+2025-11-21 11:00:40,398 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=918, Title=The Girl Next Door): Missing Revenue
+2025-11-21 11:00:40,398 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=929, Title=Good Kids): Missing Revenue
+2025-11-21 11:00:40,398 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=930, Title=The Master): Missing Metascore
+2025-11-21 11:00:40,398 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=933, Title=The Ticket): Missing Revenue
+2025-11-21 11:00:40,399 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=934, Title=Detour): Missing Revenue
+2025-11-21 11:00:40,399 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=939, Title=The Siege of Jadotville): Missing Revenue
+2025-11-21 11:00:40,399 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=940, Title=Up in the Air): Missing Metascore
+2025-11-21 11:00:40,399 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=943, Title=Transpecos): Missing Revenue
+2025-11-21 11:00:40,399 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=946, Title=Triangle): Missing Revenue
+2025-11-21 11:00:40,399 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=947, Title=The Butler): Missing Metascore
+2025-11-21 11:00:40,400 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=965, Title=Custody): Missing Revenue
+2025-11-21 11:00:40,401 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=966, Title=Inland Empire): Missing Revenue; Missing Metascore
+2025-11-21 11:00:40,401 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=967, Title=L'odyssée): Missing Revenue
+2025-11-21 11:00:40,401 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=968, Title=The Walk): Missing Metascore
+2025-11-21 11:00:40,401 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=969, Title=Wrecker): Missing Revenue
+2025-11-21 11:00:40,401 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=970, Title=The Lone Ranger): Missing Metascore
+2025-11-21 11:00:40,401 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=972, Title=Disturbia): Missing Metascore
+2025-11-21 11:00:40,401 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=977, Title=Dark Places): Missing Revenue
+2025-11-21 11:00:40,401 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=978, Title=Amateur Night): Missing Revenue
+2025-11-21 11:00:40,401 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=979, Title=It's Only the End of the World): Missing Revenue
+2025-11-21 11:00:40,402 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=989, Title=Martyrs): Missing Revenue
+2025-11-21 11:00:40,402 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=990, Title=Selma): Missing Metascore
+2025-11-21 11:00:40,402 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=993, Title=Take Me Home Tonight): Missing Metascore
+2025-11-21 11:00:40,403 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=996, Title=Secret in Their Eyes): Missing Revenue
+2025-11-21 11:00:40,403 [WARNING] __main__ - Rejected row from imdb_movie_dataset.csv (Rank=999, Title=Search Party): Missing Revenue
+2025-11-21 11:00:40,404 [INFO] __main__ - Run complete: inserted=838, rejected=162
+2025-11-21 11:00:40,456 [INFO] __main__ - Exported 3352 cleaned rows to clean_imdb_movies.csv
+2025-11-21 11:00:40,548 [INFO] __main__ - Starting load_rejects_to_db run
+2025-11-21 11:00:40,553 [INFO] __main__ - Read 1458 rejected rows from rejected_rows.csv
+2025-11-21 11:00:40,566 [INFO] db - Opened database connection to ingestion
+2025-11-21 11:00:40,566 [INFO] db - Ensured rejects_raw table exists
+2025-11-21 11:00:40,645 [INFO] loaders - Inserted 1458 rejected rows into rejects_raw table
+2025-11-21 11:00:40,645 [INFO] db - Database connection closed
+2025-11-21 11:00:40,645 [INFO] __main__ - Finished load_rejects_to_db run
