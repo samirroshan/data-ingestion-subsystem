@@ -2,7 +2,7 @@
 import json
 import psycopg2
 
-from data_reader import read_imdb_csv
+from data_reader import read_movies
 from validator import validate_movie
 
 
@@ -28,7 +28,7 @@ def to_float(value):
 
 def run_ingestion(path: str):
     # 1. Read the data
-    rows = read_imdb_csv(path)
+    rows = read_movies(path)
     print(f"Read {len(rows)} rows from {path}")
 
     # 2. Connect to Postgres
