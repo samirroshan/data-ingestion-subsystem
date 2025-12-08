@@ -7,7 +7,7 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
-import validator
+import src.validator as validator
 
 
 def test_valid_movie_passes_validation():

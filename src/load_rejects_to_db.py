@@ -3,9 +3,9 @@ import csv
 import logging
 import yaml
 
-from db import get_connection, create_tables
-from loaders import insert_rejects
-from logging_config import setup_logging
+from src.db import get_connection, create_tables
+from src.loaders import insert_rejects
+from src.logging_config import setup_logging
 
 
 logger = logging.getLogger(__name__)

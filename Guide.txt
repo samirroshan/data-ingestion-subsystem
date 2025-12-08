@@ -1,0 +1,4 @@
+open termnial 
+cd ~/Workspaces/reventure/data-ingestion-subsystem
+source venv/bin/activate
+
