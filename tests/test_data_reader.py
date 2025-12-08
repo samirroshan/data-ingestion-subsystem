@@ -7,7 +7,7 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
-import data_reader
+import src.data_reader as data_reader
 
 
 def test_read_movies_returns_rows():

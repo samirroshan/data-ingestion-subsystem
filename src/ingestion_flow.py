@@ -2,8 +2,8 @@
 import json
 import psycopg2
 
-from data_reader import read_movies
-from validator import validate_movie
+from src.data_reader import read_movies
+from src.validator import validate_movie
 
 
 # --- DB connection details (same as DBeaver) ---

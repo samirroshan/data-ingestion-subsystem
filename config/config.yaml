@@ -1,9 +1,8 @@
 paths:
-  source_csv: imdb_movie_dataset.csv
-  clean_csv: clean_imdb_movies.csv
-  rejected_csv: rejected_rows.csv
-  log_file: ingestion.log
-  
+  source_csv: data/imdb_movie_dataset.csv
+  rejected_csv: outputs/rejected_rows.csv
+  log_file: logs/ingestion.log
+
 db:
   host: localhost
   port: 5432

@@ -2,7 +2,6 @@
 from typing import Iterator, Dict
 import csv
 
-import csv
 
 def read_imdb_csv(path: str):
     return read_movies(path)
@@ -26,8 +25,8 @@ def read_imdb_csv(csv_path: str) -> Iterator[Dict[str, str]]:
 
     Parameters
     ----------
-    csv_path : str
-        Path to the IMDB CSV file, e.g. "imdb_movie_dataset.csv".
+        csv_path : str
+        Path to the IMDB CSV file, e.g. "data/imdb_movie_dataset.csv".
 
     Yields
     ------

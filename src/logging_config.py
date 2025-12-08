@@ -4,7 +4,7 @@ import yaml
 from pathlib import Path
 
 
-def setup_logging(config_path: str = "config.yaml") -> None:
+def setup_logging(config_path: str = "config/config.yaml") -> None:
     """
     Configure root logging to write to the log file specified in config.yaml
     (paths.log_file) and also echo to the console.

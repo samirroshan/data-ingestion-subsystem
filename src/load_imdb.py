@@ -5,15 +5,16 @@ import pandas as pd
 import psycopg2
 import yaml
 
-from validator import validate_movie
 import logging
+from validator import validate_movie
 from logging_config import setup_logging
+
 
 setup_logging()
 logger = logging.getLogger(__name__)
 
 # --- Load configuration from YAML ---
-with open("config.yaml", "r", encoding="utf-8") as f:
+with open("config/config.yaml", "r", encoding="utf-8") as f:
     config = yaml.safe_load(f)
 
 # DB config
@@ -211,13 +212,14 @@ def export_clean_movies_to_csv():
     conn.close()
 
     # write cleaned data to a new CSV file
-    output_path = "clean_imdb_movies.csv"
+    output_path = "outputs/clean_imdb_movies.csv"
+
     df.to_csv(output_path, index=False)
 
     print(f"Wrote {len(df)} cleaned rows to {output_path}")
     logger.info("Exported %d cleaned rows to %s", len(df), output_path)
 
 if __name__ == "__main__":
-    # adjust this if you’re reading the CSV path from config.yaml
-    load_imdb_csv("imdb_movie_dataset.csv")
+    # Use the CSV path from config.yaml
+    load_imdb_csv()
     export_clean_movies_to_csv()
