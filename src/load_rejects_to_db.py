@@ -2,6 +2,14 @@
 import csv
 import logging
 import yaml
+"""
+Utility script for loading rejected IMDB rows into PostgreSQL.
+
+Reads the rejected_rows CSV configured in config.yaml, wraps each bad row
+with its source file and error reason, ensures the audit table exists, and
+then bulk-inserts all rejected records into the rejects_raw table using the
+shared DB helpers and loaders.
+"""
 
 from src.db import get_connection, create_tables
 from src.loaders import insert_rejects

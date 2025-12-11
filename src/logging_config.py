@@ -2,6 +2,13 @@
 import logging
 import yaml
 from pathlib import Path
+"""
+Central logging configuration for the ingestion project.
+
+Initializes root logging based on paths defined in config/config.yaml,
+ensuring logs are written to a configured log file and echoed to the
+console. Safe to call multiple times without adding duplicate handlers.
+"""
 
 
 def setup_logging(config_path: str = "config/config.yaml") -> None:

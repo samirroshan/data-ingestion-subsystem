@@ -2,6 +2,13 @@
 import os
 import sys
 
+"""
+Pytest suite for the data_reader module.
+
+Verifies that read_movies successfully reads the IMDB CSV file and
+returns a non-empty list of row dicts with expected columns such as "Title".
+"""
+
 # Make sure we can import data_reader from project root
 PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
 if PROJECT_ROOT not in sys.path:

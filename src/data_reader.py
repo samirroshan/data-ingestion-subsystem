@@ -1,4 +1,12 @@
 # data_reader.py
+"""
+Utility module for reading the IMDB movie CSV dataset.
+
+Provides functions that open the CSV file and return each movie row as a
+dictionary keyed by the column names (e.g., Title, Genre, Rating, Revenue),
+using csv.DictReader for convenient downstream validation and loading.
+"""
+
 from typing import Iterator, Dict
 import csv
 

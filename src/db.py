@@ -1,4 +1,12 @@
 # db.py
+"""
+Database helper module for the IMDB ingestion project.
+
+Provides a context-managed PostgreSQL connection factory using settings
+from config.yaml, and a utility to create required audit tables (like
+`rejects_raw`) used to store raw rejected records and error reasons.
+"""
+
 from contextlib import contextmanager
 import logging
 

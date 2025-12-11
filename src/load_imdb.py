@@ -8,6 +8,15 @@ import yaml
 import logging
 from validator import validate_movie
 from logging_config import setup_logging
+"""
+IMDB ingestion and export script driven by config.yaml.
+
+Reads raw movie rows from the source CSV, validates each record, and loads
+cleaned data into the stg_movies table in PostgreSQL while logging invalid
+rows to both a rejects table and a separate CSV + log file. Also supports
+exporting all cleaned movies from stg_movies into outputs/clean_imdb_movies.csv
+for downstream analysis.
+"""
 
 
 setup_logging()

@@ -1,4 +1,13 @@
 # ingestion_flow.py
+"""
+End-to-end IMDB movie ingestion script.
+
+Reads raw movie rows from a CSV file, validates each record, and writes
+cleaned data into the stg_movies table in PostgreSQL. Any invalid rows,
+along with the validation error reason and original payload, are stored
+in stg_rejects for later inspection.
+"""
+
 import json
 import psycopg2
 

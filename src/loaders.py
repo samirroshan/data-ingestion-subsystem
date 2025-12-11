@@ -4,6 +4,13 @@ import json
 import logging
 
 logger = logging.getLogger(__name__)
+"""
+Loader utilities for rejected IMDB records.
+
+Provides a helper to bulk-insert invalid movie rows into the rejects_raw
+audit table in PostgreSQL, storing the source file, full raw record as JSON,
+and the associated validation error reason, with simple logging for observability.
+"""
 
 
 def insert_rejects(conn, rejects: Iterable[Dict[str, Any]]) -> None:

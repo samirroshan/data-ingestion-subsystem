@@ -1,5 +1,14 @@
 # validator.py
 # validator.py
+"""
+Row-level validator for IMDB movie records.
+
+Checks required fields (Title, Rank, Year, Runtime, Rating, Votes,
+Revenue, Metascore) for presence, correct types, and reasonable ranges.
+Returns a (is_valid, error_reason) tuple so the ingestion pipeline can
+either load clean rows or route bad ones into rejection paths with a
+human-readable error summary.
+"""
 
 def validate_movie(row: dict) -> tuple[bool, str]:
     """

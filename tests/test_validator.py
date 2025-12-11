@@ -1,6 +1,13 @@
 # tests/test_validator.py
 import os
 import sys
+"""
+Pytest suite for the movie validator.
+
+Covers happy-path and failure scenarios to ensure validate_movie correctly
+accepts fully valid rows and rejects rows with issues like missing revenue
+or ratings outside the allowed 0–10 range, returning clear error messages.
+"""
 
 # Make sure the project root (where validator.py lives) is on sys.path
 PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
