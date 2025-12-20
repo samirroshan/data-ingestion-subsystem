@@ -161,7 +161,14 @@ data/imdb_movie_dataset.csv
 From the project root:
 
 ```bash
-PYTHONPATH=src python src/load_imdb.py
+# Run Main Ingestion (Python)
+python -m src.Main.ingestion_flow
+
+# Run Spark Ingestion
+python -m src.load.load_imdb
+
+# Run Rejects Loader
+python -m src.load.load_rejects_to_db
 ```
 
 ### Expected Output
@@ -200,20 +207,25 @@ You now have a fully functional, reproducible ETL ingestion subsystem.
 
 ```text
 data-ingestion-subsystem/
-├── configs/
-│   └── imdb_ingestion.yaml
+├── config/
+│   └── config.yaml
 ├── data/
 │   └── imdb_movie_dataset.csv
-├── db/
-│   └── db_connection.py
-├── ingestion/
-│   ├── validator.py
-│   └── ingestion_service.py
-├── migrations/
-│   ├── create_staging_tables.sql
-│   ├── create_reject_tables.sql
-│   └── create_final_tables.sql
+├── src/
+│   ├── Main/
+│   │   ├── ingestion_flow.py
+│   │   └── logging_config.py
+│   ├── load/
+│   │   ├── load_imdb.py
+│   │   ├── load_rejects_to_db.py
+│   │   ├── loaders.py
+│   │   └── db.py
+│   ├── reader/
+│   │   └── data_reader.py
+│   ├── transform/
+│   │   └── transformers.py
+│   └── validator/
+│       └── validator.py
 ├── tests/
-├── main.py
 ├── requirements.txt
 └── README.md

@@ -25,7 +25,14 @@ def setup_logging(config_path: str = "config/config.yaml") -> None:
         cfg = yaml.safe_load(f)
 
     log_file = cfg["paths"]["log_file"]
-    log_path = Path(log_file)
+    
+    # Resolve log path relative to project root (assuming config is in <root>/config/config.yaml)
+    # config_path might be absolute or relative.
+    config_path_obj = Path(config_path).resolve()
+    # If config is in .../config/config.yaml, parent is .../config, parent.parent is project root
+    project_root = config_path_obj.parent.parent
+    
+    log_path = project_root / log_file
 
     log_path.parent.mkdir(parents=True, exist_ok=True)
 

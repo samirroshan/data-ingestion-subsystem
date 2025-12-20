@@ -10,7 +10,7 @@ either load clean rows or route bad ones into rejection paths with a
 human-readable error summary.
 """
 
-def validate_movie(row: dict) -> tuple[bool, str]:
+def validate_movie(row: dict) -> tuple:
     """
     Return (is_valid, error_reason).
     error_reason is empty string if the row is valid.

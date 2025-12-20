@@ -11,8 +11,9 @@ in stg_rejects for later inspection.
 import json
 import psycopg2
 
-from src.data_reader import read_movies
-from src.validator import validate_movie
+from src.reader.data_reader import read_movies
+from src.validator.validator import validate_movie
+from src.transform.transformers import to_int, to_float
 
 
 # --- DB connection details (same as DBeaver) ---
@@ -21,18 +22,6 @@ DB_USER = "revature"
 DB_PASSWORD = "12345"   # <-- change to your actual password if different
 DB_HOST = "localhost"
 DB_PORT = 5432
-
-
-def to_int(value):
-    if value is None or str(value).strip() == "":
-        return None
-    return int(value)
-
-
-def to_float(value):
-    if value is None or str(value).strip() == "":
-        return None
-    return float(value)
 
 
 def run_ingestion(path: str):
@@ -139,4 +128,4 @@ def run_ingestion(path: str):
 
 
 if __name__ == "__main__":
-    run_ingestion("imdb_movie_dataset.csv")
+    run_ingestion("data/imdb_movie_dataset.csv")

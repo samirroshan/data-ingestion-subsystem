@@ -11,9 +11,9 @@ then bulk-inserts all rejected records into the rejects_raw table using the
 shared DB helpers and loaders.
 """
 
-from src.db import get_connection, create_tables
-from src.loaders import insert_rejects
-from src.logging_config import setup_logging
+from src.load.db import get_connection, create_tables
+from src.load.loaders import insert_rejects
+from src.Main.logging_config import setup_logging
 
 
 logger = logging.getLogger(__name__)
@@ -24,7 +24,7 @@ def main():
     setup_logging()
 
     # 2) Load DB + paths config
-    with open("config.yaml") as f:
+    with open("config/config.yaml") as f:
         cfg = yaml.safe_load(f)
 
     logger.info("Starting load_rejects_to_db run")
